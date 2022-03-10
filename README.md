@@ -1,9 +1,7 @@
 <div > 
   <p>Hi All! <br> 
-  I am Mohamed Gad,
-  </p>
-  <p> 
-   a software Engineer focused on web development
+    I am Mohamed Gad, <br>
+    a software Engineer focused on web development
   </p>
   <p>  I am open for offers. Generally speaking, I am interested in these positions: 
   </p>
