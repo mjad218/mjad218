@@ -3,7 +3,9 @@
   I am Mohamed Gad,
   </p>
   <p> 
-    I am open for offers. Generally speaking, I am interested in these positions: 
+   a software Engineer focused on web development
+  </p>
+  <p>  I am open for offers. Generally speaking, I am interested in these positions: 
   </p>
   <ul>
     <li>Full-Stack Software Engineer</li>
