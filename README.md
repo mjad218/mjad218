@@ -1,13 +1,9 @@
 <div > 
   <p>Hi All! <br> 
     I am Mohamed Gad, <br>
-    a software Engineer focused on web development
+     a Software Engineer focused on web development with the ability to do full-stack.
   </p>
-  <p>  I am open for offers. Generally speaking, I am interested in these positions: 
+  <p> 
+      I am not limited to web development, it will be interesting to work in different areas and fields of software engineering
   </p>
-  <ul>
-    <li>Full-Stack Software Engineer</li>
-    <li>Back-End Software Engineer</li>
-    <li>Front-End Software Engineer</li>
-  </ul>
 </div> 
