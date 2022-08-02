@@ -4,6 +4,6 @@
      a Software Engineer focused on web development with the ability to do full-stack.
   </p>
   <p> 
-      I am not limited to web development, it will be more than interesting to work in different areas and fields of software engineering
+      Despit That, I am not limited to web development, it will be more than interesting to work in different areas and fields of software engineering
   </p>
 </div> 
