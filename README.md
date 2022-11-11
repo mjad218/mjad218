@@ -5,8 +5,7 @@
   </p>
   <p> 
     I use Software to help people and leave an impact. <br>
-    
-    [@mjad218](https://www.linkedin.com/in/mjad218/)
-  </p>
+</p>
   
 </div> 
+    [@mjad218](https://www.linkedin.com/in/mjad218/)
